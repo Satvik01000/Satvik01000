@@ -7,10 +7,20 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/satvik0100)
-[![GitHub](https://img.shields.io/badge/GitHub-171515.svg?style=flat&logo=github&logoColor=white)](https://github.com/Satvik01000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=flat&logo=vercel&logoColor=white)](https://satvikmishra.tech)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:satvikmishra2192@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/satvik0100" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Satvik01000" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+  <a href="mailto:satvikmishra2192@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  </a>
+  <a href="https://satvikmishra.tech" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
