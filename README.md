@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
   <a href="https://satvikmishra.tech" target="_blank" style="margin: 4px;">
-    <img width="40" height="40" alt="Portfolio" src="https://github.com/user-attachments/assets/26b59b5d-95b2-4cfe-8179-a05c9c740503" />
+    <img width="40" height="40" alt="Portfolio" src="https://github.com/user-attachments/assets/86aabecd-222c-4824-8402-62e12d73ff7c" />
   </a>
 </p>
 
