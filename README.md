@@ -9,16 +9,16 @@
 ## 📫 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/satvik0100" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Satvik01000" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   </a>
   <a href="mailto:satvikmishra2192@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Email" />
   </a>
   <a href="https://satvikmishra.tech" target="_blank">
-    <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="Portfolio" />
+    <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" height="40" alt="Portfolio" />
   </a>
 </p>
 
