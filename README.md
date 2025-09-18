@@ -7,10 +7,10 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satvik0100)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satvik01000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://satvikmishra.tech)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satvikmishra2192@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/satvik0100)
+[![GitHub](https://img.shields.io/badge/GitHub-171515.svg?style=flat&logo=github&logoColor=white)](https://github.com/Satvik01000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=flat&logo=vercel&logoColor=white)](https://satvikmishra.tech)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:satvikmishra2192@gmail.com)
 
 ---
 
