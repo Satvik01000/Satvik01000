@@ -8,17 +8,17 @@
 
 ## 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/satvik0100" target="_blank">
+  <a href="https://linkedin.com/in/satvik0100" target="_blank" style="margin: 4px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Satvik01000" target="_blank">
+  <a href="https://github.com/Satvik01000" target="_blank style="margin: 4px;"">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-  <a href="mailto:satvikmishra2192@gmail.com" target="_blank">
+  <a href="mailto:satvikmishra2192@gmail.com" target="_blank" style="margin: 4px;">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
-  <a href="https://satvikmishra.tech" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" height="40" alt="Portfolio" />
+  <a href="https://satvikmishra.tech" target="_blank" style="margin: 4px;">
+    <img width="40" height="40" alt="Portfolio" src="https://github.com/user-attachments/assets/26b59b5d-95b2-4cfe-8179-a05c9c740503" />
   </a>
 </p>
 
